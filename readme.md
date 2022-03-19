@@ -8,4 +8,4 @@
 https://stackoverflow.com/questions/16517714/php-implode-invalid-arguments-passed
 cần ép kiểu mảng khi dùng implode
 
-https://www.youtube.com/watch?v=lXhJZ1uOwHM
+
